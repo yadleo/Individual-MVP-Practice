@@ -1,0 +1,23 @@
+{
+  "name": "Individual-MVP-Practice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yadleo/Individual-MVP-Practice.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yadleo/Individual-MVP-Practice/issues"
+  },
+  "homepage": "https://github.com/yadleo/Individual-MVP-Practice#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
